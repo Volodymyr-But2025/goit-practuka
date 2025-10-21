@@ -8,6 +8,7 @@ ul li {
   width: 1280px;
   box-sizing: border-box;
   background-image: url(../image/bgrd_header_section_hero.jpg);
+  
 }
 .cont-header {
   box-sizing: border-box;
@@ -16,4 +17,8 @@ ul li {
   width: 1080px;
   margin: 32px auto 0;
   border-radius: 10px;
+  
+}
+.cont-spisok {
+  display: inline;
 }
